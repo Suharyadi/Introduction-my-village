@@ -9,11 +9,11 @@ Junior High School (12-14)
 ![IMG_2918.JPG](http://tunashijau.org/wp-content/uploads/2011/08/drama1.jpg)
 ---
 #Scale
-1 classroom (~30)
+1 classroom (~20)
 
 ---
 #Overall
-In this activity, students make a introduction movie about their own country, and presentation for others.
+In this activity, students make a introduction movie about their own village, and presentation for others.
 
 
 ---
@@ -23,7 +23,7 @@ In this activity, students make a introduction movie about their own country, an
 skill
 
 * Presentation Skill
-* deep Knowledge for own country
+* deep Knowledge for own village
 
 ---
 #Item/Material/System
