@@ -3,10 +3,10 @@
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Target
-Elementary School (6-12)
+Junior High School (12-14)
 
 
-![IMG_2918.JPG](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/IMG_2918.JPG)
+![IMG_2918.JPG](http://tunashijau.org/wp-content/uploads/2011/08/drama1.jpg)
 ---
 #Scale
 1 classroom (~30)
